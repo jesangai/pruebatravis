@@ -3,7 +3,7 @@ dist: xenial
 php:
   - 5.5
 script:
-  - phpunit test.php
+  - phpunit index.php
 notifications:
   email:
     - jagg1996.jj@gmail.com
