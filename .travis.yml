@@ -1,9 +1,0 @@
-language: php
-dist: xenial
-php:
-  - "5.0"
-script:
-  - phpunit test.php
-notifications:
-  email:
-    - jagg1996.jj@gmail.com
