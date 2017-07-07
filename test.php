@@ -6,3 +6,4 @@ function suma($a,$b) {
    }
 
 }
+<? 
